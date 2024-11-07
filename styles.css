@@ -2,7 +2,10 @@ body { background-color: #FFEBCD;}
 h1 {
     color: #BC8F8F;
     text-align: center;
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Monsieur La Doulaise", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
 
 }
 p{ color: #BC8F8F;
