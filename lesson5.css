@@ -9,7 +9,10 @@ p{ color: #BC8F8F;
  }
 h1 { color: #BC8F8F;
   text-align: center;
- font-family: "Times New Roman", Times, serif;
-    
+font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;  
    }
+
 
