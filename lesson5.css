@@ -1,5 +1,6 @@
 body {background-color: #FFEBCD;}
 img {
+  align: self;
   float: center;
   width: 250px;
   margin: 10px;
