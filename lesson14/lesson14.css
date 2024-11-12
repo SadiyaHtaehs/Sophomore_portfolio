@@ -1,7 +1,7 @@
 /* ADD NEEDED RULE SETS AND PROPERTIES BELOW */
 
 /* style for title and introduction */
-
+background-color
 
 
 /* style for the featured species and conservation efforts */
@@ -32,18 +32,32 @@
 
 /* body style */
 body {
-  font-family: Verdana, sans-serif;
+  font-family: "Atma", system-ui;
+  font-weight: 600;
+  font-style: normal;
+  color: #670000;
 }
 
 /* h2 style */
 h2 {
-  color: #003E1F;
+  color: #670000;
+  font-family: "Atma", system-ui;
+  font-weight: 600;
+  font-style: normal;
+}
+h1 {
+  font-family: "Atma", system-ui;
+  font-weight: 600;
+  font-style: normal;
+  color: #670000;
 }
 
 /* h3 style */
 h3 {
-  color: #053C5E;
-  margin-bottom: 10px;
+  font-family: "Atma", system-ui;
+  font-weight: 600;
+  font-style: normal;
+  color: #670000;
 }
 
 /* style for images */
