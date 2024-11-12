@@ -1,34 +1,4 @@
-/* ADD NEEDED RULE SETS AND PROPERTIES BELOW */
 
-/* style for title and introduction */
-background-color
-
-
-/* style for the featured species and conservation efforts */
-
-
-
-/* style for the content inside the featured container */
-
-
-
-/* gallery style */
-
-
-
-/* style for each animal info card */
-
-
-
-/* style for the paragraph text in the animal info card */
-
-
-
-/* style for the footer containing the images credit */
-
-
-
-/* DO NOT EDIT CSS CODE BELOW */
 
 /* body style */
 body {
@@ -36,6 +6,7 @@ body {
   font-weight: 600;
   font-style: normal;
   color: #670000;
+  background-color: #e6e6e6; 
 }
 
 /* h2 style */
@@ -65,4 +36,11 @@ img {
   width: auto;
   height: 200px;
   border: 2px solid #003E1F;
+    align: self;
+  float: center;
+  border-color: #b3b3b3;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  
 }
