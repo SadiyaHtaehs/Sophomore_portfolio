@@ -7,6 +7,7 @@ body {
   font-style: normal;
   color: #670000;
   background-color: #e6e6e6; 
+  text-align: center;
 }
 
 /* h2 style */
@@ -15,12 +16,14 @@ h2 {
   font-family: "Atma", system-ui;
   font-weight: 600;
   font-style: normal;
+  text-align: center;
 }
 h1 {
   font-family: "Atma", system-ui;
   font-weight: 600;
   font-style: normal;
   color: #670000;
+  text-align: center;
 }
 
 /* h3 style */
@@ -29,6 +32,7 @@ h3 {
   font-weight: 600;
   font-style: normal;
   color: #670000;
+  text-align: center;
 }
 
 /* style for images */
