@@ -26,10 +26,11 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #FFEBCD;
+    text-align: center;
 }
 
 li {
-  float: left;
+  float: center;
 }
 
 li a {
